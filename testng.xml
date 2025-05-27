@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <listeners>
+        <listener class-name="TestAutomation.helpers.ExtentReporter"></listener>
+    </listeners>
+    <test name="Test Sample Midtrans" parallel= "false">
+        <classes>
+            <class name="TestAutomation.TestCheckoutPaymentVA"></class>
+        </classes>
+    </test>
+    <!-- Test -->
+</suite> <!-- Suite -->

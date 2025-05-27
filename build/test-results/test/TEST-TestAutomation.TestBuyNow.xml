@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAutomation.TestBuyNow" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-16T16:13:26" hostname="Suman-Das" time="9.191">
+  <properties/>
+  <testcase name="testBuyNowClick[0](TestAutomation.helpers.Config@792b117a)" classname="TestAutomation.TestBuyNow" time="9.191"/>
+  <system-out><![CDATA[Launching 'chrome' browser in local...
+Navigating to URL : https://demo.midtrans.com/
+Started waiting for 'waiting for buy button' to be clickable
+Click on 'buyButton is being clicked here'
+<B>Screenshot</B>:- <a href=/Users/sumandas/web-automation-framework-master/test-output/html/testBuyNowClick_2021-05-16_21-43-34.png target='_blank' >testBuyNowClick_2021-05-16_21-43-34.png</a>
+<B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a>
+]]></system-out>
+  <system-err><![CDATA[May 16, 2021 9:43:26 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8) on port 30745
+Only local connections are allowed.
+May 16, 2021 9:43:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

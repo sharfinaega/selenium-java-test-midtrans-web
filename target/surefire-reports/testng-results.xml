@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<font color='Black'>Launching 'chrome' browser in local...</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Navigating to URL : https://demo.midtrans.com/</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for buy button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'buyButton is being clicked here'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Green'>Verified 'Side Bar Show'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-23.png target='_blank' >testCheckout_2025-05-27_16-42-23.png</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for checkout button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'checkoutButton is being clicked here'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with id:bank_transfer</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for virtual account list' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'virtualAccountList is being clicked here'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with xPath://a[@href='#/bank-transfer/bca-va']</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for virtual account' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'virtualAccountPayment is being clicked here'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with id:vaField</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with css:div.float-right.clickable.copy</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for Copy button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'Copy button clicked'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with id:inputMerchantId</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for va number input' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'inputVirtualAccountNumber is being clicked here'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with css:input[type='submit'][value='Inquire']</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for Inquire button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'Inquire button is being clicked'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with css:p.markdown-p.inputed-form</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with css:input[type='submit'][value='Pay']</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for pay button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'Pay button is being clicked'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Get the WebElement with css:button.btn.full.primary.btn-theme</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Started waiting for 'waiting for Check Status button' to be clickable</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Click on 'Check Status button clicked'</font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-57.png target='_blank' >testCheckout_2025-05-27_16-42-57.png</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+    </line>
+    <line>
+      <![CDATA[<font color='Black'>Browser is closed now.</font></br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-27T09:42:18Z" name="Practice Suite" finished-at="2025-05-27T09:42:58Z" duration-ms="39702">
+    <groups>
+    </groups>
+    <test started-at="2025-05-27T09:42:18Z" name="Test Sample Midtrans" finished-at="2025-05-27T09:42:58Z" duration-ms="39702">
+      <class name="TestAutomation.TestCheckoutPaymentVA">
+        <test-method signature="testCheckout(TestAutomation.helpers.Config)[pri:0, instance:TestAutomation.TestCheckoutPaymentVA@7a36aefa]" started-at="2025-05-27T16:42:18Z" name="testCheckout" description="This testcase is verifying successful checkout click to Midtrans demo site" data-provider="getTestConfig" finished-at="2025-05-27T16:42:57Z" duration-ms="39404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestAutomation.helpers.Config@71cf1b07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<font color='Black'>Launching 'chrome' browser in local...</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Navigating to URL : https://demo.midtrans.com/</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for buy button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'buyButton is being clicked here'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Green'>Verified 'Side Bar Show'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-23.png target='_blank' >testCheckout_2025-05-27_16-42-23.png</a></font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for checkout button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'checkoutButton is being clicked here'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with id:bank_transfer</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for virtual account list' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'virtualAccountList is being clicked here'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with xPath://a[@href='#/bank-transfer/bca-va']</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for virtual account' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'virtualAccountPayment is being clicked here'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with id:vaField</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with css:div.float-right.clickable.copy</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for Copy button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'Copy button clicked'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with id:inputMerchantId</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for va number input' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'inputVirtualAccountNumber is being clicked here'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with css:input[type='submit'][value='Inquire']</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for Inquire button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'Inquire button is being clicked'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with css:p.markdown-p.inputed-form</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with css:input[type='submit'][value='Pay']</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for pay button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'Pay button is being clicked'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Get the WebElement with css:button.btn.full.primary.btn-theme</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Started waiting for 'waiting for Check Status button' to be clickable</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'>Click on 'Check Status button clicked'</font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-57.png target='_blank' >testCheckout_2025-05-27_16-42-57.png</a></font></br>]]>
+            </line>
+            <line>
+              <![CDATA[<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCheckout -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestAutomation.TestCheckoutPaymentVA@7a36aefa]" started-at="2025-05-27T16:42:57Z" name="afterMethod" finished-at="2025-05-27T16:42:58Z" duration-ms="278" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<font color='Black'>Browser is closed now.</font></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestAutomation.TestCheckoutPaymentVA -->
+    </test> <!-- Test Sample Midtrans -->
+  </suite> <!-- Practice Suite -->
+</testng-results>

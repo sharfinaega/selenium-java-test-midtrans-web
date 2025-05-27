@@ -1,0 +1,127 @@
+<html>
+<head>
+<title>TestNG:  Test Sample Midtrans</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test Sample Midtrans</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue May 27 16:42:18 WIB 2025</td>
+</tr>
+<tr><td>Total time:</td><td>39 seconds (39702 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='TestAutomation.TestCheckoutPaymentVA.testCheckout()'><b>testCheckout</b><br>Test class: TestAutomation.TestCheckoutPaymentVA<br>Test method: This testcase is verifying successful checkout click to Midtrans demo site<br>Parameters: TestAutomation.helpers.Config@71cf1b07<br/>
+<a href="#Output-1935972447" onClick='toggleBox("Output-1935972447", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1935972447" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1935972447">
+<font color='Black'>Launching 'chrome' browser in local...</font></br><br/>
+<font color='Black'>Navigating to URL : https://demo.midtrans.com/</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for buy button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'buyButton is being clicked here'</font></br><br/>
+<font color='Green'>Verified 'Side Bar Show'</font></br><br/>
+<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-23.png target='_blank' >testCheckout_2025-05-27_16-42-23.png</a></font></br><br/>
+<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br><br/>
+<font color='Black'>Started waiting for 'waiting for checkout button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'checkoutButton is being clicked here'</font></br><br/>
+<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br><br/>
+<font color='Black'>Get the WebElement with id:bank_transfer</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for virtual account list' to be clickable</font></br><br/>
+<font color='Black'>Click on 'virtualAccountList is being clicked here'</font></br><br/>
+<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br><br/>
+<font color='Black'>Get the WebElement with xPath://a[@href='#/bank-transfer/bca-va']</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for virtual account' to be clickable</font></br><br/>
+<font color='Black'>Click on 'virtualAccountPayment is being clicked here'</font></br><br/>
+<font color='Black'>Get the WebElement with id:vaField</font></br><br/>
+<font color='Black'>Get the WebElement with css:div.float-right.clickable.copy</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for Copy button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'Copy button clicked'</font></br><br/>
+<font color='Black'>Get the WebElement with id:inputMerchantId</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for va number input' to be clickable</font></br><br/>
+<font color='Black'>Click on 'inputVirtualAccountNumber is being clicked here'</font></br><br/>
+<font color='Black'>Get the WebElement with css:input[type='submit'][value='Inquire']</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for Inquire button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'Inquire button is being clicked'</font></br><br/>
+<font color='Black'>Get the WebElement with css:p.markdown-p.inputed-form</font></br><br/>
+<font color='Black'>Get the WebElement with css:input[type='submit'][value='Pay']</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for pay button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'Pay button is being clicked'</font></br><br/>
+<font color='Black'>✅ Berhasil switch ke iframe snap-midtrans</font></br><br/>
+<font color='Black'>Get the WebElement with css:button.btn.full.primary.btn-theme</font></br><br/>
+<font color='Black'>Started waiting for 'waiting for Check Status button' to be clickable</font></br><br/>
+<font color='Black'>Click on 'Check Status button clicked'</font></br><br/>
+<font color='Black'><B>Screenshot</B>:- <a href=/Users/aleph_1/web-automation-framework-master/test-output/html/testCheckout_2025-05-27_16-42-57.png target='_blank' >testCheckout_2025-05-27_16-42-57.png</a></font></br><br/>
+<font color='Black'><B>Page URL</B>:- <a href=https://demo.midtrans.com/ target='_blank' >https://demo.midtrans.com/</a></font></br><br/>
+</div>
+</td>
+<td></td>
+<td>39</td>
+<td>TestAutomation.TestCheckoutPaymentVA@7a36aefa</td></tr>
+</table><p>
+</body>
+</html>

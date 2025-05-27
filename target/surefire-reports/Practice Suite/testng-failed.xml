@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice Suite]" verbose="0">
+  <listeners>
+    <listener class-name="TestAutomation.helpers.ExtentReporter"/>
+  </listeners>
+  <test name="Test Sample Midtrans(failed)">
+    <classes>
+      <class name="TestAutomation.TestCheckout">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testCheckout" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TestAutomation.TestCheckout -->
+    </classes>
+  </test> <!-- Test Sample Midtrans(failed) -->
+</suite> <!-- Failed suite [Practice Suite] -->

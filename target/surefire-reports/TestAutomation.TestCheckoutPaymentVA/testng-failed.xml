@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestAutomation.TestCheckoutPaymentVA]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="TestAutomation.TestCheckoutPaymentVA">
+        <methods>
+          <include name="testCheckout" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestAutomation.TestCheckoutPaymentVA -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [TestAutomation.TestCheckoutPaymentVA] -->
